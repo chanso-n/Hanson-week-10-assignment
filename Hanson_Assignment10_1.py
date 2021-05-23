@@ -1,5 +1,4 @@
 import os
-import csv
 
 working_directory = input('What directory would you like to use? ')
 
